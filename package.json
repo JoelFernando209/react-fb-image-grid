@@ -23,17 +23,16 @@
     "@material-ui/core": "^3.1.2",
     "@material-ui/icons": "^3.0.1",
     "lightbox-react": "^0.3.7",
-    "react-bootstrap": "^0.32.4"
   },
   "peerDependencies": {
     "react": "16.x"
   },
   "devDependencies": {
-    "nwb": "0.23.x",
+    "nwb": "^0.25.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
-  "author": "Mohammad Kashif Sulaiman",
+  "author": "Joel Fernando Dominguez Tapia",
   "homepage": "https://github.com/Expertizo/react-fb-image-grid",
   "license": "MIT",
   "repository": "https://github.com/Expertizo/react-fb-image-grid",
